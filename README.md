@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 </p>
-<h3> Here's some facts about me: </h3>
+<h3 align="center"> Here's some facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
