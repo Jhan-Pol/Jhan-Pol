@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    ### Hello there! I am Jhan Pol Giraldo Cutiva 👋
+    <h3>Hello there! I am Jhan Pol Giraldo Cutiva 👋</h3>
     <br>I'm a Software Development Student.<br>
 
 </samp>
