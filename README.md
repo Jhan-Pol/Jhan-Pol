@@ -1,10 +1,10 @@
-### Hi there I am Jhan Pol Giraldo Cutiva 👋
+### 
 
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! I am Jhan Pol Giraldo Cutiva 👋
+    <br>I'm a Software Development Student.<br>
 
 </samp>
 
