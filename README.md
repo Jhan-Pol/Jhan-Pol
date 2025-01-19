@@ -2,8 +2,8 @@
 
 <p align="center">
   <br>
-  <samp>
-    <h3>Hello there! I am Jhan Pol Giraldo Cutiva 👋</h3>
+  <samp font-size="50">
+    Hello there! I am Jhan Pol Giraldo Cutiva 👋
     <br>I'm a Software Development Student.<br>
 
 </samp>
