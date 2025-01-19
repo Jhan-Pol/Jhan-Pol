@@ -7,7 +7,7 @@
   
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
-<!-- <h2> Here's some facts about me: </h2>
+<h2> Here's some facts about me: </h2>
 
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
@@ -15,7 +15,7 @@
 - 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
 - 💬 Ask me about Programming or Machine Learning
 - 📫 I am also a technical writer at Medium
- -->
+
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
